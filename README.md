@@ -297,7 +297,7 @@ git clone https://github.com/bina26/mausam-ai-weatherwardens.git
 Navigate to the project directory:
 
 ```bash
-cd mausam-ai-weatherwardens
+cd mausam-ai
 ```
 
 ### 2. Install Dependencies
